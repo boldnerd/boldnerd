@@ -8,21 +8,17 @@
 🎧 Love riding my bike and listening to audiobooks<br/> -->
 
 
-<details>
   <summary>Things I work with in my day to day</summary>
 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white)&nbsp;
   ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
-  ![Terraform](https://img.shields.io/badge/Terraform-007ACC?logo=terraform&logoColor=white)&nbsp;
+  ![Terraform](https://img.shields.io/badge/Terraform-blue?logo=terraform&logoColor=navy&labelColor=white&color=navy);
   ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)&nbsp;
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white)&nbsp;
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?&logo=Prometheus&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-0db7ed?&logo=docker&logoColor=white)&nbsp;
   ![ArgoCD](https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=white)&nbsp;
 
-</details>
-
-<details>
   <summary>Things I have experience with</summary><br/>
 
   Languages I use<br />
@@ -46,5 +42,4 @@
   ![Notion](https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white)&nbsp;
 
  
-</details>
 
