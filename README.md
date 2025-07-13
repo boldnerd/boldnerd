@@ -5,7 +5,7 @@
 
 
 <!-- 🛠️ Love building stuff (mostly Lego)<br/>
-🎧 Love riding my bike and listening to audiobooks<br/>
+🎧 Love riding my bike and listening to audiobooks<br/> -->
 
 
 <details>
