@@ -18,6 +18,8 @@
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?&logo=Prometheus&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-0db7ed?&logo=docker&logoColor=white)&nbsp;
   ![ArgoCD](https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=white)&nbsp;
+  ![VMWare](https://img.shields.io/badge/VMware-blue?logo=vmware&logoColor=blue&labelColor=white&color=blue);
+  ![AWS](https://img.shields.io/badge/aws-yellow?logo=aws&logoColor=yellow&labelColor=black&color=yellow);
 
   <summary>Things I have experience with</summary><br/>
 
@@ -31,7 +33,7 @@
   ![Windows](https://img.shields.io/badge/Windows-003399?&logo=windowsxp&logoColor=white)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)&nbsp;
   ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?&logo=alpine-linux&logoColor=white)&nbsp;
-  ![Debian](https://img.shields.io/badge/Debian-D70A53?&logo=debian&logoColor=white)&nbsp;
+  ![RedHat](https://img.shields.io/badge/RedHat-red?logo=Redhat&logoColor=red&labelColor=white&color=red)&nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)&nbsp;
 
   Software<br />
