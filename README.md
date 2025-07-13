@@ -26,7 +26,7 @@
   ![Go](https://img.shields.io/badge/Go-turc?logo=Go&logoColor=darkturquoise&labelColor=white&color=darkturquoise%20)&nbsp;
   ![Groovy](https://img.shields.io/badge/Groovy-blue?logo=groovy&logoColor=navy&labelColor=white&color=navy)&nbsp;
 
-   Operating systems I'm familiar with<br/>
+   Operating systems I work with<br/>
   ![macOS](https://img.shields.io/badge/macOS-000000?&logo=macos&logoColor=F0F0F0)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-003399?&logo=windowsxp&logoColor=white)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)&nbsp;
