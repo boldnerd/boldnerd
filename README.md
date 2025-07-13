@@ -12,7 +12,7 @@
 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white)&nbsp;
   ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm)&nbsp;
-  ![Terraform](https://img.shields.io/badge/Terraform-blue?logo=terraform&logoColor=navy&labelColor=white&color=navy);
+  ![Terraform](https://img.shields.io/badge/Terraform-blue?logo=terraform&logoColor=navy&labelColor=white&color=navy)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)&nbsp;
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white)&nbsp;
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?&logo=Prometheus&logoColor=white)&nbsp;
