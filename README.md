@@ -18,8 +18,8 @@
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?&logo=Prometheus&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-0db7ed?&logo=docker&logoColor=white)&nbsp;
   ![ArgoCD](https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=white)&nbsp;
-  ![VMWare](https://img.shields.io/badge/VMware-blue?logo=vmware&logoColor=blue&labelColor=white&color=blue);
-  ![AWS](https://img.shields.io/badge/aws-yellow?logo=aws&logoColor=yellow&labelColor=black&color=yellow);
+  ![VMWare](https://img.shields.io/badge/VMware-blue?logo=vmware&logoColor=blue&labelColor=white&color=blue)
+  ![AWS](https://img.shields.io/badge/aws-yellow?logo=aws&logoColor=yellow&labelColor=black&color=yellow)
 
   <summary>Things I have experience with</summary><br/>
 
